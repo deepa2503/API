@@ -13,6 +13,10 @@ public class SampleTest {
 		hdfc.setBalance(1);
 		int balance = hdfc.getBalance();
 		System.out.println(balance);
+		
+		
+		
+		System.out.println("true");
 
 }
 }
